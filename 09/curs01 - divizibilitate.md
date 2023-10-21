@@ -15,7 +15,8 @@
 #### Probleme recomandate pentru aprofundarea noțiunilor discutate:
  - [pbinfo](https://www.pbinfo.ro/probleme/2114/vapoare), [pbinfo](https://www.pbinfo.ro/probleme/60/primeintreele), [pbinfo](https://www.pbinfo.ro/probleme/3315/eratostene4), [pbinfo](https://www.pbinfo.ro/probleme/3318/eratostene7)
  - [Sherlock and his girlfriend](https://codeforces.com/contest/776/problem/B) (CF)
- - [Weakened Common Divisor](https://codeforces.com/contest/1025/problem/B) (CF)
+ - [Weakened Common Divisor](https://codeforces.com/contest/1025/problem/B) (CF). [Aici](https://codeforces.com/contest/1025/submission/228910603) găsiți rezolvarea mea, pe care am discutat-o și la curs.
  - [Big Vova](https://codeforces.com/contest/1407/problem/B) (CF)
  - [Common divisors](https://cses.fi/problemset/task/1081) (CSES)
  - [Enlarge GCD](https://codeforces.com/contest/1034/problem/A) (CF)
+ - [Dreptunghi](https://www.infoarena.ro/problema/dreptunghi) (infoarena). [Aici](https://www.infoarena.ro/job_detail/3159013) găsiți rezolvarea mea, pe care am discutat-o și la curs.
