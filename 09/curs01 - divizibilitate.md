@@ -1,6 +1,6 @@
 # Divizibilitate
 
-#### Puteți găsi tot ceea ce am discutat la curs (și multe altele) la următoarele linkuriȘ
+#### Găsiți tot ceea ce am discutat la curs (și multe altele) la următoarele linkuri:
 - [CMMDC](https://cp-algorithms.com/algebra/euclid-algorithm.html)
 - [Descompunere in factori primi](https://cp-algorithms.com/algebra/factorization.html)
 - [Ciurul lui eratostene](https://cp-algorithms.com/algebra/sieve-of-eratosthenes.html)
