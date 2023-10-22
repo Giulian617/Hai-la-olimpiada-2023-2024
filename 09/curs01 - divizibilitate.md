@@ -20,4 +20,6 @@
  - [Big Vova](https://codeforces.com/contest/1407/problem/B) (CF)
  - [Common divisors](https://cses.fi/problemset/task/1081) (CSES)
  - [Enlarge GCD](https://codeforces.com/contest/1034/problem/A) (CF)
- 
+
+
+ #### Cursul de azi a fost ținut de Sebastian Popa și Vlad Pîslaru
