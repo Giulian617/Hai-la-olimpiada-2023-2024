@@ -76,6 +76,35 @@ long long solve_fast()
 	return ans;
 }
 
+long long solve_mid()
+{
+	int i, j;
+	long long ans=0, len;
+
+	for(i=0;i<N;++i)
+	{
+		len=l[i];
+		for(j=i-1;j>-1;--j)
+		{
+			if(h[j]<h[i])
+				break;
+			len+=l[j];
+		}
+
+		for(j=i+1;j<N;++j)
+		{
+			if(h[j]<h[i])
+				break;
+			len+=l[j];
+		}
+
+		if(len*h[i]>ans)
+			ans=len*h[i];
+	}
+
+	return ans;
+}
+
 long long solve_slow()
 {
 	int i, j;
@@ -115,6 +144,8 @@ int main()
 	for(i=0;i<N;++i)
 		f>>h[i]>>l[i];
 
-	g<<solve_fast();
+	//g<<solve_slow();
+	g<<solve_mid();
+	//g<<solve_fast();
 	return 0;
 }
