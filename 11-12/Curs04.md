@@ -12,4 +12,5 @@
 - [pbinfo](https://www.pbinfo.ro/probleme/4357/oxford)
 - [cses](https://cses.fi/problemset/task/1686)
 - [codeforeces](https://codeforces.com/contest/894/problem/E)
-- [cses](https://cses.fi/problemset/task/1685) - very very hard, you'll need a lot more than kosaraju's algorithm
+- [kattis](https://open.kattis.com/problems/equivalences) 
+- [cses](https://cses.fi/problemset/task/1685) - much harder version of the one above; you'll need a lot more than kosaraju's algorithm
