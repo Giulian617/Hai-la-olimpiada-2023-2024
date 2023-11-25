@@ -6,11 +6,12 @@
 - [book1](https://github.com/Giulian617/Hai-la-olimpiada-2023-2024/blob/main/11-12/resources/res1.pdf) [book2](https://github.com/Giulian617/Hai-la-olimpiada-2023-2024/blob/main/11-12/resources/res2.pdf) [book3](https://github.com/Giulian617/Hai-la-olimpiada-2023-2024/blob/main/11-12/resources/res3.pdf)
 
 ### Recommended problems:
-- [cses](https://cses.fi/problemset/task/1683)
-- [cses](https://cses.fi/problemset/task/1682)
-- [pbinfo](https://www.pbinfo.ro/probleme/3365/digrafulctc)
-- [pbinfo](https://www.pbinfo.ro/probleme/4357/oxford)
-- [cses](https://cses.fi/problemset/task/1686)
-- [codeforeces](https://codeforces.com/contest/894/problem/E)
-- [kattis](https://open.kattis.com/problems/equivalences) 
-- [cses](https://cses.fi/problemset/task/1685) - much harder version of the one above; you'll need a lot more than kosaraju's algorithm
+- [cses1](https://cses.fi/problemset/task/1683)
+- [cses2](https://cses.fi/problemset/task/1682)
+- [pbinfo1](https://www.pbinfo.ro/probleme/3365/digrafulctc)
+- [pbinfo2](https://www.pbinfo.ro/probleme/4357/oxford)
+- [cses3](https://cses.fi/problemset/task/1686)
+- [codeforeces1](https://codeforces.com/contest/894/problem/E)
+- [codeforces2](https://codeforces.com/contest/1534/problem/F1)
+- [kattis1](https://open.kattis.com/problems/equivalences) 
+- [cses4*](https://cses.fi/problemset/task/1685) - much harder version of the one above; you'll need a lot more than kosaraju's algorithm
