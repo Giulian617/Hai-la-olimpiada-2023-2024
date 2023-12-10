@@ -11,7 +11,7 @@
 - [pbinfo1](https://www.pbinfo.ro/probleme/3365/digrafulctc)
 - [pbinfo2](https://www.pbinfo.ro/probleme/4357/oxford)
 - [cses3](https://cses.fi/problemset/task/1686)
-- [codeforeces1](https://codeforces.com/contest/894/problem/E)
+- [codeforces1](https://codeforces.com/contest/894/problem/E)
 - [codeforces2](https://codeforces.com/contest/1534/problem/F1)
 - [kattis1](https://open.kattis.com/problems/equivalences) 
 - [cses4*](https://cses.fi/problemset/task/1685) - much harder version of the one above; you'll need a lot more than kosaraju's algorithm
