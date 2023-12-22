@@ -9,11 +9,11 @@
 | <img src="sp0.png" width="300" height="300"> | ![Description 2](sp1.png) |
 | Image 3                           | Image 4       |
 | ![Description 3](sp2.png)         | ![Description 4](sp3.png) | -->
-
-<img src="../resources/sp0.png" width="300" height="300">
-<img src="sp1.png" width="300" height="300">
-<img src="sp2.png" width="300" height="300">
-<img src="sp3.png" width="300" height="300">
+https://raw.githubusercontent.com/Giulian617/Hai-la-olimpiada-2023-2024/main/09/resources/sp0.png
+<img src="https://raw.githubusercontent.com/Giulian617/Hai-la-olimpiada-2023-2024/main/09/resources/sp0.png" width="300" height="300">
+<img src="https://raw.githubusercontent.com/Giulian617/Hai-la-olimpiada-2023-2024/main/09/resources/sp1.png" width="300" height="300">
+<img src="https://raw.githubusercontent.com/Giulian617/Hai-la-olimpiada-2023-2024/main/09/resources/sp2.png" width="300" height="300">
+<img src="https://raw.githubusercontent.com/Giulian617/Hai-la-olimpiada-2023-2024/main/09/resources/sp3.png" width="300" height="300">
 
 #### Probleme:
 * [forest queries](https://cses.fi/problemset/task/1652) -> [solutie](https://cses.fi/problemset/result/707149/)
@@ -59,7 +59,7 @@ void get_matrix(){
 }
 ```
 
-<img src="mars2d.png" >
+<img src="https://raw.githubusercontent.com/Giulian617/Hai-la-olimpiada-2023-2024/main/09/resources/mars2d.png" >
 
 #### Probleme:
 * [diff2Darrays](https://www.pbinfo.ro/probleme/3903/diff2darrays) -> [solutie](https://ideone.com/Al5jOl)
