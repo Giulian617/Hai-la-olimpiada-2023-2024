@@ -10,7 +10,7 @@
 | Image 3                           | Image 4       |
 | ![Description 3](sp2.png)         | ![Description 4](sp3.png) | -->
 
-<img src="sp0.png" width="300" height="300">
+<img src="../resources/sp0.png" width="300" height="300">
 <img src="sp1.png" width="300" height="300">
 <img src="sp2.png" width="300" height="300">
 <img src="sp3.png" width="300" height="300">
