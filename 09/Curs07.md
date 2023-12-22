@@ -63,7 +63,7 @@ void get_matrix(){
 
 #### Probleme:
 * [diff2Darrays](https://www.pbinfo.ro/probleme/3903/diff2darrays) -> [solutie](https://ideone.com/Al5jOl)
-* [amat]() -> [solutie](https://kilonova.ro/submissions/156730)
+* [amat](https://kilonova.ro/problems/1544) -> [solutie](https://kilonova.ro/submissions/156730)
 
 ### Temă:
 * [usaco](http://www.usaco.org/index.php?page=viewproblem2&cpid=919)
