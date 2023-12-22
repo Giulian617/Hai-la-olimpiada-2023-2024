@@ -9,7 +9,6 @@
 | <img src="sp0.png" width="300" height="300"> | ![Description 2](sp1.png) |
 | Image 3                           | Image 4       |
 | ![Description 3](sp2.png)         | ![Description 4](sp3.png) | -->
-https://raw.githubusercontent.com/Giulian617/Hai-la-olimpiada-2023-2024/main/09/resources/sp0.png
 <img src="https://raw.githubusercontent.com/Giulian617/Hai-la-olimpiada-2023-2024/main/09/resources/sp0.png" width="300" height="300">
 <img src="https://raw.githubusercontent.com/Giulian617/Hai-la-olimpiada-2023-2024/main/09/resources/sp1.png" width="300" height="300">
 <img src="https://raw.githubusercontent.com/Giulian617/Hai-la-olimpiada-2023-2024/main/09/resources/sp2.png" width="300" height="300">
