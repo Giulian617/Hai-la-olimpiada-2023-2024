@@ -10,17 +10,17 @@
 | Image 3                           | Image 4       |
 | ![Description 3](sp2.png)         | ![Description 4](sp3.png) | -->
 
-| Image 1 | Image 2 |
+|  |  |
 | ------- | ------- |
 | <img src="https://raw.githubusercontent.com/Giulian617/Hai-la-olimpiada-2023-2024/main/09/resources/sp0.png" width="300" height="300"> | <img src="https://raw.githubusercontent.com/Giulian617/Hai-la-olimpiada-2023-2024/main/09/resources/sp1.png" width="300" height="300"> |
-| Image 3 | Image 4 |
+|  |  |
 | <img src="https://raw.githubusercontent.com/Giulian617/Hai-la-olimpiada-2023-2024/main/09/resources/sp2.png" width="300" height="300"> | <img src="https://raw.githubusercontent.com/Giulian617/Hai-la-olimpiada-2023-2024/main/09/resources/sp3.png" width="300" height="300"> |
 
 
-<img src="https://raw.githubusercontent.com/Giulian617/Hai-la-olimpiada-2023-2024/main/09/resources/sp0.png" width="300" height="300">
+<!--<img src="https://raw.githubusercontent.com/Giulian617/Hai-la-olimpiada-2023-2024/main/09/resources/sp0.png" width="300" height="300">
 <img src="https://raw.githubusercontent.com/Giulian617/Hai-la-olimpiada-2023-2024/main/09/resources/sp1.png" width="300" height="300">
 <img src="https://raw.githubusercontent.com/Giulian617/Hai-la-olimpiada-2023-2024/main/09/resources/sp2.png" width="300" height="300">
-<img src="https://raw.githubusercontent.com/Giulian617/Hai-la-olimpiada-2023-2024/main/09/resources/sp3.png" width="300" height="300">
+<img src="https://raw.githubusercontent.com/Giulian617/Hai-la-olimpiada-2023-2024/main/09/resources/sp3.png" width="300" height="300"> -->
 
 #### Probleme:
 * [forest queries](https://cses.fi/problemset/task/1652) -> [solutie](https://cses.fi/problemset/result/707149/)
