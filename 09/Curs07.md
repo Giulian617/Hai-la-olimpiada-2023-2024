@@ -62,7 +62,7 @@ void add(int i1, int j1, int i2, int j2, int x ){
 void get_matrix(){
     for(int i = 1 ; i <= n ; i ++)
         for(int j = 1; j <= m ; j ++)
-          A[i][j] = M[i][j] + A[i-1][j] + A[i][j-1] - A[i-1][j-1];
+          A[i][j] += M[i][j] + A[i-1][j] + A[i][j-1] - A[i-1][j-1];
 }
 ```
 
