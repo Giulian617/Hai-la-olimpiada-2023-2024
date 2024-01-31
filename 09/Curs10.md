@@ -45,4 +45,5 @@ pair<int, int> fib (int n) {
 # Funcții
 
 ![functie](https://github.com/Giulian617/Hai-la-olimpiada-2023-2024/blob/main/09/resources/image.png)
+![void](https://cdn.programiz.com/sites/tutorial2program/files/cpp-function-call.png)
 
