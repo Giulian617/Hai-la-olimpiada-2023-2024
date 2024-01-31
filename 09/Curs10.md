@@ -46,5 +46,5 @@ pair<int, int> fib (int n) {
 
 ![functie](https://github.com/Giulian617/Hai-la-olimpiada-2023-2024/blob/main/09/resources/image.png)
 ![void](https://cdn.programiz.com/sites/tutorial2program/files/cpp-function-call.png)
-![rec1](https://www.reddit.com/media?url=https%3A%2F%2Fpreview.redd.it%2F0wap3cp4khm01.jpg%3Fauto%3Dwebp%26s%3D3dec95610a58f519cdc503061ef41bf85ed63295)
+![rec1](https://github.com/Giulian617/Hai-la-olimpiada-2023-2024/blob/main/09/resources/0wap3cp4khm01.png)
 ![rec2](https://i.pinimg.com/564x/fc/09/2e/fc092ecfa54cecbef34cb4745b9f6b42.jpg)
