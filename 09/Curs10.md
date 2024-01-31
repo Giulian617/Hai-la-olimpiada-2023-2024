@@ -48,3 +48,7 @@ pair<int, int> fib (int n) {
 ![void](https://cdn.programiz.com/sites/tutorial2program/files/cpp-function-call.png)
 ![rec1](https://github.com/Giulian617/Hai-la-olimpiada-2023-2024/blob/main/09/resources/0wap3cp4khm01.png)
 ![rec2](https://i.pinimg.com/564x/fc/09/2e/fc092ecfa54cecbef34cb4745b9f6b42.jpg)
+
+
+* https://www.pbinfo.ro/probleme/497/majoritar -> https://algo.monster/liteproblems/169
+* https://www.pbinfo.ro/probleme/1472/castel
