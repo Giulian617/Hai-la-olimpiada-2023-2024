@@ -42,3 +42,7 @@ pair<int, int> fib (int n) {
 }
 ```
 
+# Funcții
+
+![functie](https://media.geeksforgeeks.org/wp-content/uploads/20221219125726/Functions-in-C-768.png)
+
