@@ -44,5 +44,5 @@ pair<int, int> fib (int n) {
 
 # Funcții
 
-![functie]([https://media.geeksforgeeks.org/wp-content/uploads/20221219125726/Functions-in-C-768.png](https://github.com/Giulian617/Hai-la-olimpiada-2023-2024/blob/main/09/resources/image.png)https://github.com/Giulian617/Hai-la-olimpiada-2023-2024/blob/main/09/resources/image.png)
+![functie](https://github.com/Giulian617/Hai-la-olimpiada-2023-2024/blob/main/09/resources/image.png)
 
