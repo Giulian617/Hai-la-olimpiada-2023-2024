@@ -51,6 +51,7 @@ pair<int, int> fib (int n) {
 
 
 * https://www.pbinfo.ro/probleme/497/majoritar -> https://algo.monster/liteproblems/169
+* https://www.pbinfo.ro/probleme/4337/normalizare
 * https://www.pbinfo.ro/probleme/1472/castel
 * https://www.pbinfo.ro/probleme/1374/numere9
 * https://www.pbinfo.ro/probleme/2961/deminare
