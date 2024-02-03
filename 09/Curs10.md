@@ -55,3 +55,7 @@ pair<int, int> fib (int n) {
 * https://www.pbinfo.ro/probleme/1472/castel
 * https://www.pbinfo.ro/probleme/1374/numere9
 * https://www.pbinfo.ro/probleme/2961/deminare
+
+### Tema
+
+* https://www.pbinfo.ro/probleme/3730/cartofi
